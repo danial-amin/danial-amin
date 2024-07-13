@@ -1,11 +1,14 @@
-- 👋 Hi, I’m Danial Amin. You can call me Dany.
-- 💻 I am currently working as a Lead Data Scientist for a multi-national focused on a landscape of industrial applications providing customized data analytics solutions in domains of data mining, dashboarding and reporting, descriptive data analytics, predictive data analytics and perspective data analytics.
-- 👀 I’m interested in developingg cutting edge Artificial Intelligence and Machine Learning use-cases for spectrum of universities optimizing the business performance.
-- 🌱 I’m currently learning advanced AI & ML concepts as Meta-learning, RLHF, RLSO and other components to develop fully adaptable problem agnostic models.
-- 💞️ I’m looking to collaborate on Research Projects in the domains of Computer Vision, NLP, Deep Learning and Reinforcement Learning in the domains of Engineering design, development, and manufacturing or IoT data.
-- 📫 You can reach me on my <a href="https://danial-amin.github.io/" target="_blank">Portfolio</a> or on <a href="https://www.linkedin.com/in/danialamin/" target="_blank">LinkedIn</a>
+👋 Hi, I’m Danial Amin. You can call me Dany.
 
-<!---
-danial-amin/danial-amin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 I am currently working as a Lead Data Scientist at a venture studio supporting startups in Emerging markets.
+- 📇 I have over seven years of experience, specializing in predictive and generative AI across various sectors.
+  
+- ✔️ I excel in implementing machine learning algorithms, deep learning, and reinforcement learning to solve real-world problems. My expertise spans the entire data science project lifecycle, from initial analysis to deployment and operational support, working effectively with diverse data types including tabular, time series, images, video, text, and audio.
+
+- 👀 I’m interested in developing cutting-edge Artificial Intelligence and Machine Learning use cases to optimize business performance and drive innovation across a spectrum of industries, including engineering design, development, manufacturing, and IoT data.
+
+- 🌱 I’m currently enhancing my skills by learning advanced AI & ML concepts such as Meta-learning, RLHF, RLSO, and other components to develop fully adaptable, problem-agnostic models. I'm also pursuing an international MBA to align data-driven strategies with global business goals.
+
+- 💞️ I’m looking to collaborate on research projects in the domains of Computer Vision, NLP, Deep Learning, and Reinforcement Learning.
+
+- 📫 You can reach me on my [Portfolio](https://danial-amin.github.io/) or on [LinkedIn](https://www.linkedin.com/in/danialamin/).
