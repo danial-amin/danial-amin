@@ -1,6 +1,6 @@
 👋 Hi, I’m Danial Amin. You can call me Dany.
 
-- 💻 I am currently working as a consultant providing services to a MNC developing their ground truth to support LLMs.
+- 💻 I am currently working as a lead data and artificial intelligence person at a new impact lab that we are building in Helsinki, the gaming capital of the World.
 - 📇 I have over eight years of experience, specializing in predictive and generative AI across various sectors.
   
 - ✔️ I excel in implementing machine learning algorithms, deep learning, and reinforcement learning to solve real-world problems. My expertise spans the entire data science project lifecycle, from initial analysis to deployment and operational support, working effectively with diverse data types including tabular, time series, images, video, text, and audio.
